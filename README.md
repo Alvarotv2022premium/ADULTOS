@@ -29,7 +29,7 @@ http://venomtt.com:8000/kdcxxD1U/543545/88479
 http://venomtt.com:8000/kdcxxD1U/543545/88475
 
 #EXTINF:-1,  VIXEN CHANNEL
-http://venomtt.com:8000/kdcxxD1U/543545/88471
+https://github.com/Alvarotv2022premium/ADULTOS/find/e491ea73d960871523f88a61eabd0e840d49bd0f
 
 #EXTINF:-1,  PLAYBOY CHANNEL
-http://venomtt.com:8000/kdcxxD1U/543545/88471
+https://github.com/Alvarotv2022premium/ADULTOS/mvkLOGOALVAROTV.mkv
