@@ -25,11 +25,11 @@ http://venomtt.com:8000/kdcxxD1U/543545/88471
 #EXTINF:-1,  VENUS CHANNEL
 http://venomtt.com:8000/kdcxxD1U/543545/88479
 
-#EXTINF:-1,  BLACKED CHANNEL
-http://venomtt.com:8000/kdcxxD1U/543545/88475
+#EXTINF:-1,  EROTIC CHANNEL
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78350
 
-#EXTINF:-1,  VIXEN CHANNEL
-https://github.com/Alvarotv2022premium/ADULTOS/find/e491ea73d960871523f88a61eabd0e840d49bd0f
+#EXTINF:-1,  CINE ADULT HOY
+http://higherpro.xyz:8080/movie/jesus82399/GBbdheUdfZ/77913.mp4
 
-#EXTINF:-1,  PLAYBOY CHANNEL
-https://github.com/Alvarotv2022premium/ADULTOS/mvkLOGOALVAROTV.mkv
+#EXTINF:-1,  PLAYBOY LATINAMERICA
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/340619
