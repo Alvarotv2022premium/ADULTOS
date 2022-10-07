@@ -23,7 +23,7 @@ http://venomtt.com:8000/kdcxxD1U/543545/88524
 http://venomtt.com:8000/kdcxxD1U/543545/88471
 
 #EXTINF:-1,  VENUS CHANNEL
-http://venomtt.com:8000/kdcxxD1U/543545/88479
+http://flixgran.xyz:8080/888888/888888/330224
 
 #EXTINF:-1,  EROTIC CHANNEL
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78350
