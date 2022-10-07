@@ -29,13 +29,13 @@ http://flixgran.xyz:8080/888888/888888/330224
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78350
 
 #EXTINF:-1,  CINE ADULT HOY
-http://higherpro.xyz:8080/movie/jesus82399/GBbdheUdfZ/77913.mp4
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/54192
 
 #EXTINF:-1,  PLAYBOY LATINAMERICA
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/340619
 
 #EXTINF:-1, ADULTS CINEMA1
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4718.mp4
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/54138
 
 
 
