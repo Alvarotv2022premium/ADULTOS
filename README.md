@@ -35,7 +35,7 @@ http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/54192
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/340619
 
 #EXTINF:-1, ADULTS CINEMA1
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/54138
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199185.mp4
 
 
 
