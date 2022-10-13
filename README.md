@@ -28,18 +28,38 @@ http://flixgran.xyz:8080/888888/888888/330224
 #EXTINF:-1,  EROTIC CHANNEL
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78350
 
-#EXTINF:-1,  CINE ADULT HOY
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/54192
-
 #EXTINF:-1,  PLAYBOY LATINAMERICA
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/340619
 
-#EXTINF:-1, ADULTS CINEMA1
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199185.mp4
+#EXTINF:-1, ADULT CINE1
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199029.mp4
 
+#EXTINF:-1, ADULT CINE2
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199019.mp4
 
+#EXTINF:-1, ADULT CINE3
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199020.mp4
 
+#EXTINF:-1, ADULT CINE4
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199049.mp4
 
+#EXTINF:-1, ADULT CINE5
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199051.mp4
+
+#EXTINF:-1, ADULT CINE6
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199143.mp4
+
+#EXTINF:-1, ADULT CINE7
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199160.mp4
+
+#EXTINF:-1, ADULT CINE8
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199159.mp4
+
+#EXTINF:-1, ADULT CINE9
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199163.mp4
+
+#EXTINF:-1, ADULT CINE10
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199192.mp4
 
 
 
