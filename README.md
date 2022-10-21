@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1,  HUSTLER CHANNEL
-http://venomtt.com:8000/kdcxxD1U/543545/88526
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/28887
 
 #EXTINF:-1,  BABES CHANNEL
 http://venomtt.com:8000/kdcxxD1U/543545/88519
@@ -60,6 +60,52 @@ http://gameplay.p2sweb.me:80/movie/3091894/4952970/199163.mp4
 
 #EXTINF:-1, ADULT CINE10
 http://gameplay.p2sweb.me:80/movie/3091894/4952970/199192.mp4
+
+#EXTINF:-1, BRAZZERS ESP
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77715
+
+#EXTINF:-1, COLLEGE RULES
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77716
+
+#EXTINF:-1, DESTINY
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77289
+
+#EXTINF:-1, EROXX
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/192674
+
+#EXTINF:-1, EVIL ANGEL
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12007
+
+#EXTINF:-1, HOLED
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/107277
+
+#EXTINF:-1, HOT
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12043
+
+#EXTINF:-1, BRAZZERS
+
+#EXTINF:-1, BRAZZERS
+
+#EXTINF:-1, BRAZZERS
+
+#EXTINF:-1, BRAZZERS
+
+#EXTINF:-1, BRAZZERS
+
+#EXTINF:-1, BRAZZERS
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
