@@ -11,7 +11,7 @@ http://venomtt.com:8000/kdcxxD1U/543545/88475
 
 
 #EXTINF:-1,  PRIVATE CHANNEL
-http://venomtt.com:8000/kdcxxD1U/543545/88479
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72296
 
 #EXTINF:-1,   DORCEL CJANNEL
 http://venomtt.com:8000/kdcxxD1U/543545/88513
@@ -29,7 +29,7 @@ http://flixgran.xyz:8080/888888/888888/330224
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78350
 
 #EXTINF:-1,  PLAYBOY LATINAMERICA
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/340619
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/340619
 
 #EXTINF:-1, ADULT CINE1
 http://gameplay.p2sweb.me:80/movie/3091894/4952970/199029.mp4
@@ -82,17 +82,95 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/107277
 #EXTINF:-1, HOT
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12043
 
-#EXTINF:-1, BRAZZERS
+#EXTINF:-1, MOFOS
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72295
 
-#EXTINF:-1, BRAZZERS
+#EXTINF:-1, CASUAL TEEN
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/172362
 
-#EXTINF:-1, BRAZZERS
+#EXTINF:-1, YOUNG LEGAL
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/172365
 
-#EXTINF:-1, BRAZZERS
+#EXTINF:-1, PASSION
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12051
 
-#EXTINF:-1, BRAZZERS
+#EXTINF:-1, PENTHOUSE
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/15555
 
-#EXTINF:-1, BRAZZERS
+#EXTINF:-1, PRIVATE
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12008
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
