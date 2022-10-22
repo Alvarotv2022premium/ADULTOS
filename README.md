@@ -100,47 +100,17 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/15555
 #EXTINF:-1, PRIVATE
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12008
 
-
 #EXTINF:-1, REDLIGHT
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12049
 
-#EXTINF:-1,
+#EXTINF:-1, SUPER ONE
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77731
 
-#EXTINF:-1,
+#EXTINF:-1, TEEN DREAMS
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/192675
 
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1, DUSK
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12030
 
 
 
