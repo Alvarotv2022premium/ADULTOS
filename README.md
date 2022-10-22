@@ -50,10 +50,10 @@ http://gameplay.p2sweb.me:80/movie/3091894/4952970/199143.mp4
 http://gameplay.p2sweb.me:80/movie/3091894/4952970/199160.mp4
 
 #EXTINF:-1, ADULT CINE8
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199159.mp4
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199189.mp4
 
 #EXTINF:-1, ADULT CINE9
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199163.mp4
+http://gameplay.p2sweb.me:80/movie/3091894/4952970/199187.mp4
 
 #EXTINF:-1, ADULT CINE10
 http://gameplay.p2sweb.me:80/movie/3091894/4952970/199179.mp4
