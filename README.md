@@ -25,9 +25,6 @@ http://venomtt.com:8000/kdcxxD1U/543545/88471
 #EXTINF:-1,  VENUS CHANNEL
 http://flixgran.xyz:8080/888888/888888/330224
 
-#EXTINF:-1,  EROTIC CHANNEL
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78350
-
 #EXTINF:-1,  PLAYBOY LATINAMERICA
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/340619
 
@@ -64,31 +61,31 @@ http://gameplay.p2sweb.me:80/movie/3091894/4952970/199192.mp4
 #EXTINF:-1, BRAZZERS ESP
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77715
 
-#EXTINF:-1, COLLEGE RULES
+#EXTINF:-1, ADULT 247 A
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77716
 
-#EXTINF:-1, DESTINY
+#EXTINF:-1, ADULT 247 B
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77289
 
-#EXTINF:-1, EROXX
+#EXTINF:-1, ADULT 247 C
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/192674
 
-#EXTINF:-1, EVIL ANGEL
+#EXTINF:-1, ADULT 247 D
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12007
 
-#EXTINF:-1, HOLED
+#EXTINF:-1, ADULT 247 F
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/107277
 
-#EXTINF:-1, HOT
+#EXTINF:-1, ADULT 247 G
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12043
 
-#EXTINF:-1, MOFOS
+#EXTINF:-1, ADULT 247 H
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72295
 
-#EXTINF:-1, CASUAL TEEN
+#EXTINF:-1, ASULT 247 I
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/172362
 
-#EXTINF:-1, YOUNG LEGAL
+#EXTINF:-1, ADULT 247 J
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/172365
 
 #EXTINF:-1, PASSION
