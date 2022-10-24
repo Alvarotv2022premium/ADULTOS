@@ -28,34 +28,34 @@ http://flixgran.xyz:8080/888888/888888/330224
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/340619
 
 #EXTINF:-1, ADULT CINE1
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199029.mp4
+http://739804451176284895.niceapy.xyz:80/play/fc08257/8925480810/284895.ts
 
 #EXTINF:-1, ADULT CINE2
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199019.mp4
+http://739804451176284903.niceapy.xyz:80/play/fc08257/8925480810/284903.ts
 
 #EXTINF:-1, ADULT CINE3
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199190.mp4
+
 
 #EXTINF:-1, ADULT CINE4
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199049.mp4
+
 
 #EXTINF:-1, ADULT CINE5
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199051.mp4
+
 
 #EXTINF:-1, ADULT CINE6
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199143.mp4
+
 
 #EXTINF:-1, ADULT CINE7
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199160.mp4
+
 
 #EXTINF:-1, ADULT CINE8
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199189.mp4
+
 
 #EXTINF:-1, ADULT CINE9
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199187.mp4
+
 
 #EXTINF:-1, ADULT CINE10
-http://gameplay.p2sweb.me:80/movie/3091894/4952970/199179.mp4
+
 
 #EXTINF:-1, BRAZZERS ESP
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/77715
