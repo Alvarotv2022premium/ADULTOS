@@ -59,13 +59,13 @@ http://flixgran.xyz:8080/888888/888888/330224
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/340619
 
 #EXTINF:-1, ADULT CINE1
-http://739804451176284895.niceapy.xyz:80/play/fc08257/8925480810/284895.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4699.mp4
 
 #EXTINF:-1, ADULT CINE2
-http://739804451176284903.niceapy.xyz:80/play/fc08257/8925480810/284903.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4697.mp4
 
 #EXTINF:-1, ADULT CINE3
-http://739804451176284904.niceapy.xyz:80/play/fc08257/8925480810/284904.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4696.mp4
 
 
 #EXTINF:-1, ADULT CINE4
