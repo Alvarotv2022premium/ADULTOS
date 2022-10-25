@@ -69,19 +69,19 @@ http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4696.mp4
 
 
 #EXTINF:-1, ADULT CINE4
-http://739804451176284954.niceapy.xyz:80/play/fc08257/8925480810/284954.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4688.mp4
 
 
 #EXTINF:-1, ADULT CINE5
-http://739804451176284955.niceapy.xyz:80/play/fc08257/8925480810/284955.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4688.mp4
 
 
 #EXTINF:-1, ADULT CINE6
-http://739804451176284971.niceapy.xyz:80/play/fc08257/8925480810/284971.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/22264.mkv
 
 
 #EXTINF:-1, ADULT CINE7
-http://739804451176285002.niceapy.xyz:80/play/fc08257/8925480810/285002.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/22263.mkv
 
 
 #EXTINF:-1, ADULT CINE8
