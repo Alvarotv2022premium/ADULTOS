@@ -23,12 +23,15 @@ http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4728.mp4
 #EXTINF:-1, Blacked 4
 http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4727.mp4
 
-#EXTINF:-1, 
+#EXTINF:-1, Ganga Bang
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/22268.mkv
 
-#EXTINF:-1, 
 
-#EXTINF:-1, 
+#EXTINF:-1, Exploited teen
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/22261.mkv
 
+#EXTINF:-1, Jena Gerson
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4669.mp4
 
 
 #EXTINF:-1,  HUSTLER CHANNEL
@@ -85,14 +88,14 @@ http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/22263.mkv
 
 
 #EXTINF:-1, ADULT CINE8
-http://739804451176285003.niceapy.xyz:80/play/fc08257/8925480810/285003.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/22265.mkv
 
 
 #EXTINF:-1, ADULT CINE9
-http://739804451176285032.niceapy.xyz:80/play/fc08257/8925480810/285032.ts
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/26154.mp4
 
 
-#EXTINF:-1, ADULT CINE10
+#EXTINF:-1, 
 
 
 #EXTINF:-1, BRAZZERS ESP
