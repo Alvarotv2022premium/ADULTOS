@@ -1,5 +1,31 @@
 #EXTM3U 
 
+
+#EXTINF:-1, Way Swinger Swap Wives
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/10118.mkv
+
+#EXTINF:-1, Little shy slut
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/10111.mp4
+
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+
+
 #EXTINF:-1,  HUSTLER CHANNEL
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/28887
 
